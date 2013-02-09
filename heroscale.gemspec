@@ -6,10 +6,10 @@ require 'heroscale/version'
 Gem::Specification.new do |gem|
   gem.name          = "heroscale"
   gem.version       = Heroscale::VERSION
-  gem.authors       = ["ianski"]
-  gem.email         = ["iyanski@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.authors       = ["iyanski"]
+  gem.email         = ["me@iantusil.com"]
+  gem.description   = %q{Heroku Auto Scaler using heroku-api gem}
+  gem.summary       = %q{}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)

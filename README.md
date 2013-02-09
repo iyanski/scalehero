@@ -1,6 +1,6 @@
 # Heroscale
 
-TODO: Write a gem description
+A heroku auto-scaler using heroku-api
 
 ## Installation
 
@@ -18,7 +18,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Just make sure that you have these ENV variables:
+    ENV['HEROKU_APP']
+and
+    ENV['HEROKU_API_KEY']
 
 ## Contributing
 
