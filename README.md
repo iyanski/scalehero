@@ -1,4 +1,4 @@
-# Heroscale
+# Scalehero
 
 A heroku auto-scaler using heroku-api
 
@@ -6,7 +6,7 @@ A heroku auto-scaler using heroku-api
 
 Add this line to your application's Gemfile:
 
-    gem 'heroscale'
+    gem 'scalehero'
 
 And then execute:
 
@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install heroscale
+    $ gem install scalehero
 
 ## Usage
 

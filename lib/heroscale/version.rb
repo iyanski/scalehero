@@ -1,3 +1,3 @@
-module Heroscale
-  VERSION = "0.0.1"
+module Scalehero
+  VERSION = "0.0.2"
 end

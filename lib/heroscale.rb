@@ -1,6 +1,6 @@
-require "heroscale/version"
+require "scalehero/version"
 
-module Heroscale
+module Scalehero
   module Scaler
     class << self
       @@heroku = Heroku::API.new(:api_key => ENV['HEROKU_API_KEY'])

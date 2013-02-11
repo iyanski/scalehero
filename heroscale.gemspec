@@ -1,11 +1,11 @@
 # -*- encoding: utf-8 -*-
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'heroscale/version'
+require 'scalehero/version'
 
 Gem::Specification.new do |gem|
-  gem.name          = "heroscale"
-  gem.version       = Heroscale::VERSION
+  gem.name          = "scalehero"
+  gem.version       = Scalehero::VERSION
   gem.authors       = ["iyanski"]
   gem.email         = ["me@iantusil.com"]
   gem.description   = %q{Heroku Auto Scaler using heroku-api gem}
