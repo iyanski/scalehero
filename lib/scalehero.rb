@@ -1,4 +1,5 @@
 require "scalehero/version"
+require 'heroku-api'
 
 module Scalehero
   module Scaler
