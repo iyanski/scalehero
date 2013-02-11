@@ -19,8 +19,11 @@ Or install it yourself as:
 ## Usage
 
 Just make sure that you have these ENV variables:
+
     ENV['HEROKU_APP']
+
 and
+
     ENV['HEROKU_API_KEY']
 
 ## Contributing
