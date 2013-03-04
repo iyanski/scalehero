@@ -26,6 +26,10 @@ and
 
     ENV['HEROKU_API_KEY']
 
+Extend Scalehero in your Workers
+    class WorkerName
+      extend Scalehero
+
 ## Contributing
 
 1. Fork it
